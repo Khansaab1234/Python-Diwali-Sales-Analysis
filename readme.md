@@ -152,10 +152,10 @@ The dataset contains customer order records with demographic and product-level d
 
 ## 👤 Author & Connect
 
-* **Author:** \[Your Name\]
+* **Author:** Farhan Khan
 
-* **LinkedIn:** \[Your LinkedIn Profile URL\]
+* **LinkedIn:** https://www.linkedin.com/in/khansaab047/
 
-* **GitHub:** [@your-username](https://github.com/your-username?utm_source=gemini)
+* **GitHub:** https://github.com/Khansaab1234
 
-* **Portfolio / Email:** \[Your Email or Website\]
+* **Portfolio / Email:** fk0864995@gmail.com
